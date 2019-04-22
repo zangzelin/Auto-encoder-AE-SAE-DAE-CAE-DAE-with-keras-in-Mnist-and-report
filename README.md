@@ -1,6 +1,6 @@
 ## This repository is the code and some report(with Chinese) of AE/DAE/CAE/VAE
 
-### how to run the code 
+### How to run the code 
 
 ```bash
 cd ./Code
@@ -10,11 +10,11 @@ python3 main.py cae
 python3 main.py vae 
 ```
 
-### environment 
+### Environment 
 
 python3 
 keras
 sklearn
 tensorflow
 
-### The report with Chinese is [here](./Report.md) 
+### The Chinese report is [here](./Report.md) 
